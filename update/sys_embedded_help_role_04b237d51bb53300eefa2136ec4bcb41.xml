@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_364333_app3.app3table_user" name="x_364333_app3.app3table_user">80b237d51bb53300eefa2136ec4bcb3f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-02 05:29:55</sys_created_on>
+        <sys_id>04b237d51bb53300eefa2136ec4bcb41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>80b237d51bb53300eefa2136ec4bcb3f</sys_name>
+        <sys_package display_value="App3" source="x_364333_app3">b342b7511bb53300eefa2136ec4bcba9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App3">b342b7511bb53300eefa2136ec4bcba9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_04b237d51bb53300eefa2136ec4bcb41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-02 05:29:55</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

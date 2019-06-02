@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="App3Table" max_length="40" name="x_364333_app3_app3table" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
